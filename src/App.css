@@ -1,0 +1,34 @@
+*{
+  text-align: center
+}
+body{
+  padding: 5%;
+  background-image:url(./planet-earth-4k-space-hd-qis7o51sock2fwsr-qis7o51sock2fwsr.jpg);
+}
+.weather{
+  padding: 1%;
+  font-size: 20px;
+  color: white;
+}
+.date{
+  padding: 1%;
+  font-size: 20px;
+  color: white;
+}
+.temp{
+  padding: .5%;
+}
+.city{
+  padding: .5%;
+}
+input{
+  width: 400px;
+  height: 22px;
+  font-size: 20px;
+}
+main{
+  border: 2px solid white;
+  width: 600px;
+  margin-left: 29%;
+  padding: 1%;
+}
